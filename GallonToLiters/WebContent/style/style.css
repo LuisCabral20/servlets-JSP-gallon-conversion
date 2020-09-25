@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+/*CSS*/
+body {
+	background-color:#CAF0F8;
+	text-align: center;
+}
+
+h1, h2, label, p{
+	color: #03045E;
+}
+
+.button{
+	background-color: #0077B6; /* Green */
+  	border: none;
+ 	color: white;
+  	padding: 10px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	margin: 4px 2px;
+  	transition-duration: 0.4s;
+  	cursor: pointer;
+}
+
+.button:hover {background-color: #00B4D8;}
